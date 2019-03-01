@@ -10,4 +10,6 @@ Gamemode X-MTA zawiera takie systemy jak:
 - System notyfikacji (powiadomień na ekranie)
 - System markerów
 
-Autor gamemoda: Pevo (email: pb.pb@onet.pl)
+Autor: Pevo (email: pb.pb@onet.pl)
+
+Krótka prezentacja: https://www.youtube.com/watch?v=xZpbokJ4xFI
