@@ -1,0 +1,12 @@
+<meta>
+  <info author="Pevo" />
+
+  <oop>true</oop>
+
+  <file src="music/authorization.mp3" />
+
+  <script src="usefulFunctions.lua" type="shared" />
+
+  <script src="main_c.lua" type="client" cache="false" />
+  <script src="main_s.lua" type="server" />
+</meta>

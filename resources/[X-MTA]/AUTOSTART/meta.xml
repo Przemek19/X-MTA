@@ -1,0 +1,6 @@
+<meta>
+  <info author="Pevo" />
+  
+  <oop>true</oop>
+  <script src="main_s.lua" type="server" />
+</meta>

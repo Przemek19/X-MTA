@@ -1,0 +1,13 @@
+<meta>
+  <info author="Pevo" />
+
+  <oop>true</oop>
+  <script src="main_c.lua" type="client" cache="false" />
+  <file src="images/arrow.png" />
+  <file src="images/circle.png" />
+  <file src="images/square.png" />
+  <file src="images/smile.png" />
+  <file src="images/car.png" />
+
+  <export function="createCustomMarker" type="client" />
+</meta>

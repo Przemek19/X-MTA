@@ -1,0 +1,11 @@
+<meta>
+  <info author="Pevo" />
+
+  <oop>true</oop>
+
+  <file src="images/speedometer.png" />
+  <file src="images/arrow.png" />
+
+  <script src="utils_c.lua" type="client" cache="false" />
+  <script src="main_c.lua" type="client" cache="false" />
+</meta>

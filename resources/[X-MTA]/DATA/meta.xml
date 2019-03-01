@@ -1,0 +1,12 @@
+<meta>
+  <info author="Pevo" />
+
+  <script src="main_c.lua" type="client" cache="false" />
+  <script src="main_s.lua" type="server" />
+
+  <export function="setData" type="shared" />
+  <export function="getData" type="shared" />
+  <export function="getAllData" type="shared" />
+
+  <download_priority_group>101</download_priority_group>
+</meta>

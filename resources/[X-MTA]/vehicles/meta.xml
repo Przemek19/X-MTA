@@ -1,0 +1,10 @@
+<meta>
+  <info author="Pevo" />
+
+  <oop>true</oop>
+
+  <file src="files/music/car_open.mp3" />
+
+  <script src="main_c.lua" type="client" cache="false" />
+  <script src="main_s.lua" type="server" />
+</meta>

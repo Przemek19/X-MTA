@@ -1,0 +1,35 @@
+<meta>
+  <info author="Pevo" />
+
+  <oop>true</oop>
+
+  <script src="server_config.lua" type="shared" cache="false" />
+
+  <script src="main_c.lua" type="client" cache="false" />
+  <script src="main_s.lua" type="server" />
+
+  <script src="functions.lua" type="shared" cache="false" />
+
+  <script src="data_c.lua" type="client" cache="false" />
+  <script src="data_s.lua" type="server" />
+
+  <script src="chat_c.lua" type="client" cache="false" />
+  <script src="chat_s.lua" type="server" />
+
+  <script src="user_c.lua" type="client" cache="false" />
+  <script src="user_s.lua" type="server" />
+
+  <export function="setCustomData" type="shared" />
+  <export function="getCustomData" type="shared" />
+
+  <export function="setGlobalData" type="shared" />
+  <export function="getGlobalData" type="shared" />
+
+  <export function="getServerConfig" type="shared" />
+
+  <export function="getServerLogoTexture" type="shared" />
+  
+  <export function="encrypt" type="server" />
+
+  <download_priority_group>99</download_priority_group>
+</meta>

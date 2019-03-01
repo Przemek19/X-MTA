@@ -1,0 +1,86 @@
+<meta>
+  <info author="Pevo" />
+
+  <oop>true</oop>
+
+  <file src="files/images/corner.png" />
+
+  <file src="files/fonts/Lato/bold.ttf" />
+  <file src="files/fonts/Lato/light.ttf" />
+  <file src="files/fonts/Lato/regular.ttf" />
+
+  <file src="files/fonts/Chakra_Petch/bold.ttf" />
+  <file src="files/fonts/Chakra_Petch/light.ttf" />
+  <file src="files/fonts/Chakra_Petch/regular.ttf" />
+
+  <file src="files/shaders/blackwhite.fx" />
+
+  <script src="gui_c.lua" type="client" cache="false" />
+
+  <script src="class/textures_c.lua" type="client" cache="false" />
+  <script src="class/fonts_c.lua" type="client" cache="false" />
+  <script src="class/animations_c.lua" type="client" cache="false" />
+
+  <script src="functions_c.lua" type="client" cache="false" />
+
+  <!--<script src="class/_c.lua" type="client" cache="false" />-->
+
+  <script src="class/elements/shader_c.lua" type="client" cache="false" />
+  <script src="class/elements/window_c.lua" type="client" cache="false" />
+  <script src="class/elements/label_c.lua" type="client" cache="false" />
+  <script src="class/elements/editbox_c.lua" type="client" cache="false" />
+  <script src="class/elements/button_c.lua" type="client" cache="false" />
+  <script src="class/elements/checkbox_c.lua" type="client" cache="false" />
+  <script src="class/elements/rectangle_c.lua" type="client" cache="false" />
+  <script src="class/elements/image_c.lua" type="client" cache="false" />
+  <script src="class/elements/gif_c.lua" type="client" cache="false" />
+  <script src="class/elements/browser_c.lua" type="client" cache="false" />
+
+  <script src="class/render_c.lua" type="client" cache="false" />
+
+  <script src="export_c.lua" type="client" cache="false" />
+  
+  <export function="createImage" type="client" />
+  <export function="createRectangle" type="client" />
+  <export function="createLabel" type="client" />
+  <export function="createCheckBox" type="client" />
+  <export function="createButton" type="client" />
+  <export function="createWindow" type="client" />
+  <export function="createShader" type="client" />
+  <export function="createEditBox" type="client" />
+  <export function="setBorderRadius" type="client" />
+  <export function="setPlaceholder" type="client" />
+  <export function="scale" type="client" />
+  <export function="setText" type="client" />
+  <export function="setConfigProperty" type="client" />
+  <export function="setPosition" type="client" />
+  <export function="getText" type="client" />
+  <export function="getColor" type="client" />
+  <export function="setSize" type="client" />
+  <export function="setWordBreak" type="client" />
+  <export function="executeCSSToBrowser" type="client" />
+  <export function="getSize" type="client" />
+  <export function="setStatus" type="client" />
+  <export function="RGBToHex" type="client" />
+  <export function="setColorCoded" type="client" />
+  <export function="setPostGUI" type="client" />
+  <export function="setFont" type="client" />
+  <export function="setMasked" type="client" />
+  <export function="getVisible" type="client" />
+  <export function="setVisible" type="client" />
+  <export function="font" type="client" />
+  <export function="getConfigProperty" type="client" />
+  <export function="changeBrowserCSS" type="client" />
+  <export function="getPosition" type="client" />
+  <export function="getStatus" type="client" />
+  <export function="setBorder" type="client" />
+  <export function="setColor" type="client" />
+  <export function="zoom" type="client" />
+  <export function="screenSize" type="client" />
+  <export function="updateColorContrast" type="client" />
+  <export function="createAnimation" type="client" />
+  <export function="getAnimation" type="client" />
+  <export function="destroyAnimation" type="client" />
+
+  <download_priority_group>100</download_priority_group>
+</meta>

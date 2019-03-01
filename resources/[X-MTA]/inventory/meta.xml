@@ -1,0 +1,21 @@
+<meta>
+  <info author="Pevo" />
+
+  <oop>true</oop>
+
+  <file src="images/items/nil.png" />
+  <file src="images/items/water.png" />
+  <file src="images/items/car_key.png" />
+
+  <script src="items.lua" type="client" cache="false" />
+  <script src="main_c.lua" type="client" cache="false" />
+  <script src="functions_c.lua" type="client" cache="false" />
+  <script src="main_s.lua" type="server" />
+
+  <export function="giveItem" type="client" />
+  <export function="takeItemFromSlot" type="client" />
+  <export function="takeItem" type="client" />
+  <export function="getItem" type="client" />
+
+  <download_priority_group>80</download_priority_group>
+</meta>

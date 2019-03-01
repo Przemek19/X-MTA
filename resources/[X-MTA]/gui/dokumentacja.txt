@@ -1,0 +1,6 @@
+// DOKUMENTACJA SYSTEMU GUI //
+
+Aktualna wersja: 1.0.0a (27.11.2018)
+
+gui - Tablica zawierająca wszystkie elementy GUI oraz jego funkcje.
+gui.color - Tablica zawierająca kolory, z których można skorzystać.

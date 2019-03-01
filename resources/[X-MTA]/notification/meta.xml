@@ -1,0 +1,7 @@
+<meta>
+  <info author="Pevo" />
+
+  <oop>true</oop>
+
+  <script src="main_c.lua" type="client" cache="false" />
+</meta>
